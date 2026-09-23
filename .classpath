@@ -36,5 +36,14 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shash.HACHIDORILAP020/.m2/repository/com/jcraft/jsch/0.1.55/jsch-0.1.55.jar" sourcepath="C:/Users/shash.HACHIDORILAP020/.m2/repository/com/jcraft/jsch/0.1.55/jsch-0.1.55-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.jcraft"/>
+			<attribute name="maven.artifactId" value="jsch"/>
+			<attribute name="maven.version" value="0.1.55"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
